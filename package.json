@@ -2,6 +2,7 @@
   "name": "restaurante",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://carlospazsoy.github.io/P4_Restaurante/",
   "dependencies": {
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
@@ -24,6 +25,8 @@
     "yup": "^1.2.0"
   },
   "scripts": {
+    "predeploy":"npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "dev": "react-scripts dev",
     "build": "react-scripts build",
