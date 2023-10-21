@@ -1,0 +1,41 @@
+https://console.firebase.google.com/u/0/project/proyecto4-4cb6b/overview?hl=es-419
+
+Implementacion basada en la asesoria 3 del proyecto de restaurante con Esmeralda
+
+*************************************************************
+Instalacion de dependencias:
+npm install firebase
+
+*************************************************************
+Uso en proyecto 
+copia y pega los datos en tu archivo de configuracion de firebase:
+
+// Import the functions you need from the SDKs you need
+import { initializeApp } from "firebase/app";
+// TODO: Add SDKs for Firebase products that you want to use
+// https://firebase.google.com/docs/web/setup#available-libraries
+
+// Your web app's Firebase configuration
+const firebaseConfig = {
+  apiKey: "AIzaSyD0J8PpBMVF_e8OqfYP1JMIoqKwCKEJqPA",
+  authDomain: "proyecto4-4cb6b.firebaseapp.com",
+  projectId: "proyecto4-4cb6b",
+  storageBucket: "proyecto4-4cb6b.appspot.com",
+  messagingSenderId: "74315794550",
+  appId: "1:74315794550:web:35d7e537cfffc18a5c3757"
+};
+
+// Initialize Firebase
+const app = initializeApp(firebaseConfig);
+
+
+***************************************************************
+
+ todavia le agregas esta importacion al principio :
+import { getFirestore } from "firebase/firestore" 
+
+y esta exportacion al final:
+// parapoder utilizarla fuera de este documento
+const db = getFirestore(app)
+
+export default db  

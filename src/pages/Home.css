@@ -1,0 +1,23 @@
+@keyframes App-logo-spin{
+    from{
+        tranform: rotate(0deg)
+    }
+    to{
+        transform: rotate(360deg);
+    }
+}
+
+/* .contenedor{
+    position: absolute;
+    padding-top: 56.25%
+} */
+.video-container {
+    background-color: rgb(7, 10, 16);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Altura del 50% del viewport */
+    width: 100vw; /* Ancho del 50% del viewport */
+    margin: 0 auto; /* Margen automático para centrar horizontalmente */
+    padding: 1em;
+  }
