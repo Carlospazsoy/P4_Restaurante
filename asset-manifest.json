@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f47411a0.css",
+    "main.js": "/static/js/main.ef0eb393.js",
+    "static/media/1.1.png": "/static/media/1.1.397b8d745a628636aadb.png",
+    "static/media/portada4.jpg": "/static/media/portada4.b64d8afad96341261756.jpg",
+    "static/media/curry.png": "/static/media/curry.20cb924bf1a1292488c1.png",
+    "static/media/tacos.png": "/static/media/tacos.c9e6c4b376995cf03232.png",
+    "static/media/galletas.png": "/static/media/galletas.69d3f549e37515ab9e11.png",
+    "static/media/pasta.png": "/static/media/pasta.cae58167499e0446e4d3.png",
+    "static/media/sushi.png": "/static/media/sushi.e13c6e3709c4a591d966.png",
+    "static/media/pastel.png": "/static/media/pastel.448272e1e3b205c5c13c.png",
+    "static/media/batido.png": "/static/media/batido.7612e1db86e393818079.png",
+    "static/media/hamburguesa.png": "/static/media/hamburguesa.8d6e1fce6a25cded65da.png",
+    "static/media/churros.png": "/static/media/churros.1cd5d5777666615e6851.png",
+    "static/media/pexels-kristina-paukshtite-1146760.jpg": "/static/media/pexels-kristina-paukshtite-1146760.a20b4c10ca04be210ad2.jpg",
+    "static/media/brownie.png": "/static/media/brownie.2ac3d236ddacb15635c0.png",
+    "static/media/horchata.png": "/static/media/horchata.1844484880b36b36f09e.png",
+    "static/media/jamaica.png": "/static/media/jamaica.174386aaa8ddc5abf003.png",
+    "static/media/jugo-verde.png": "/static/media/jugo-verde.65a9e974c1473fc79924.png",
+    "static/media/helado.png": "/static/media/helado.00c2488130e28c9f9586.png",
+    "static/media/cafe.png": "/static/media/cafe.ce99320d8d5458c8b654.png",
+    "static/media/2037_sake_05.jpg": "/static/media/2037_sake_05.ae6d7dd28f75cc752fc0.jpg",
+    "index.html": "/index.html",
+    "main.f47411a0.css.map": "/static/css/main.f47411a0.css.map",
+    "main.ef0eb393.js.map": "/static/js/main.ef0eb393.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f47411a0.css",
+    "static/js/main.ef0eb393.js"
+  ]
+}
